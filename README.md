@@ -33,8 +33,8 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 
-Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
+Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
 
     module deexp2(a,b,c,d,w,x,y,z,f1,f2);
@@ -49,7 +49,6 @@ Program to implement the given logic function and to verify its operations in qu
 Developed by:A Praneya
 
 
-
 Register Number: 24900343
 
 
@@ -58,6 +57,7 @@ Register Number: 24900343
 
 **Output:**
 
+
 ![exp2ss](https://github.com/user-attachments/assets/56bac347-61b5-4a83-aa10-d1ee7b3260d8)
 
 
@@ -65,10 +65,12 @@ Register Number: 24900343
 
 **Timing Diagram**
 
+
 ![exp2wss](https://github.com/user-attachments/assets/13c168c7-038c-4bf5-bd7f-6132b50fd9c2)
 
 
 **Result:**
+
 
 Thus the given logic functions are implemented  and their operations are verified using Verilog programming.
 
