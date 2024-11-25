@@ -44,10 +44,11 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 
-# Developed by:A Praneya
+Developed by:A Praneya
 
 
-# RegisterNumber: 24900343
+
+RegisterNumber: 24900343
 
 
 
