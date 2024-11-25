@@ -43,9 +43,9 @@ Hardware – PCs, Cyclone II , USB flasher
     endmodule
 
 
-Developed by:A Praneya
+#Developed by:A Praneya
 
-RegisterNumber: 24900343
+#RegisterNumber: 24900343
 
 
 
@@ -65,5 +65,5 @@ RegisterNumber: 24900343
 
 **Result:**
 
-Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
+Thus the given logic functions are implemented  and their operations are verified using Verilog programming.
 
