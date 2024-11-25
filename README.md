@@ -43,9 +43,11 @@ Hardware – PCs, Cyclone II , USB flasher
     endmodule
 
 
-#Developed by:A Praneya
 
-#RegisterNumber: 24900343
+# Developed by:A Praneya
+
+
+# RegisterNumber: 24900343
 
 
 
